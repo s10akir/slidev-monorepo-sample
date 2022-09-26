@@ -6,6 +6,9 @@
 
 .slidev-layout.cover,
 .slidev-layout.intro {
+
+  background: var(--slidev-theme-primary);
+
   @apply h-full grid;
 
   h1 {
