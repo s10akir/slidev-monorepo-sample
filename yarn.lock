@@ -289,7 +289,7 @@
     prism-theme-vars "^0.2.2"
     theme-vitesse "^0.1.12"
 
-"@slidev/types@0.36.5":
+"@slidev/types@0.36.5", "@slidev/types@^0.36.5":
   version "0.36.5"
   resolved "https://registry.yarnpkg.com/@slidev/types/-/types-0.36.5.tgz#3b766945c1008dadd487a567bc0a9845a261f2b3"
   integrity sha512-8D1lJQKKjTWS6WIf5zVLVNbRnIboxwcBFjolWMFAiKzJekeK8zY2Po0Ky1KdNlPvaCqhUyDrRUFO/WFtbSfKMQ==
@@ -2325,7 +2325,7 @@ prettier@^2.7.1:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.7.1.tgz#e235806850d057f97bb08368a4f7d899f7760c64"
   integrity sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==
 
-prism-theme-vars@^0.2.2:
+prism-theme-vars@^0.2.2, prism-theme-vars@^0.2.4:
   version "0.2.4"
   resolved "https://registry.yarnpkg.com/prism-theme-vars/-/prism-theme-vars-0.2.4.tgz#c92b8747a70ced8675538454900f88f08d053558"
   integrity sha512-B3Pht+GCT87sZph7hMRLlCQXzCM0awW7Rhk08RavpqRW4LEQOeqN0uMG4QCWkul2tr8PB61YAOJGUrEW+1uuJA==
@@ -2541,6 +2541,11 @@ theme-vitesse@^0.1.12:
   version "0.1.14"
   resolved "https://registry.yarnpkg.com/theme-vitesse/-/theme-vitesse-0.1.14.tgz#e239d44fb0e61b3d0471fc86784b22e8b632dc96"
   integrity sha512-b5s+Zpfaw5+djoCJ9AEbcTbpiTlLsOvGM9oblDmmWRGWNqg9oXtEYO/uwubwx77novHBI6zNuwZRHKNlAIBo4A==
+
+theme-vitesse@^0.5.2:
+  version "0.5.2"
+  resolved "https://registry.yarnpkg.com/theme-vitesse/-/theme-vitesse-0.5.2.tgz#dc713c2a50ed3e85391a41a6d5ab9c5f04db0994"
+  integrity sha512-FIbk1vWc0cEwjWoiW3JdtzWwaOvQqIsN/DlqRCMK1GpPwVGHY2hct0fEBYdwMKHQG1SlS8zL3gytyziNyCRBjw==
 
 to-regex-range@^5.0.1:
   version "5.0.1"
